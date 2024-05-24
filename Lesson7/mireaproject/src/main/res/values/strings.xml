@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">YourAppName</string>
+    <string name="signed_in_fmt">Signed in as %s</string>
+    <string name="signed_out">Signed out</string>
+    <string name="sign_in">Sign in</string>
+    <string name="sign_out">Sign out</string>
+</resources>

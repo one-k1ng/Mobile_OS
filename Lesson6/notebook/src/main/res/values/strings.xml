@@ -1,0 +1,5 @@
+<resources>
+    <string name="action_open">action_open</string>
+    <string name="action_save">action_save</string>
+    <string name="app_name">app_name</string>
+</resources>
